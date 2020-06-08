@@ -4,24 +4,34 @@ Summary many kinds multimodal learning algorithms, papers, datasets and codes.
 ## [Visual Question Answering](https://visualqa.org/)
 
 Paper:  
-1. [VQA: Visual Question Answering (ICCV 2015)](https://arxiv.org/pdf/1505.00468.pdf)
-2. [Balancing and Answering Binary Visual Questions (CVPR 2016)](https://arxiv.org/pdf/1511.05099.pdf)
-3. [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering (CVPR 2017)](https://arxiv.org/pdf/1612.00837.pdf)
-4. []
+* [VQA: Visual Question Answering. (ICCV 2015)](https://arxiv.org/pdf/1505.00468.pdf)
+* [Balancing and Answering Binary Visual Questions. (CVPR 2016)](https://arxiv.org/pdf/1511.05099.pdf)
+* [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering. (CVPR 2017)](https://arxiv.org/pdf/1612.00837.pdf)
+* [Hierarchical Question-Image Co-Attention for Visual Question Answering. (2017)](https://arxiv.org/pdf/1606.00061.pdf)
+* [Improved fusion of visual and language representations by dense symmetric co-attention for visual question answering. (CVPR 2018)](https://arxiv.org/pdf/1804.00775.pdf)
+* [Bilinear attention networks.(NIPS 2018)](https://arxiv.org/pdf/1805.07932.pdf)
+* [Beyond bilinear: Generalized multimodal factorized high-order pooling for visual question answering.](https://arxiv.org/pdf/1708.03619.pdf)
+* [Deep Modular Co-Attention Networks for Visual Question Answering. (CVPR 2019)](https://arxiv.org/pdf/1906.10770.pdf)
+* [Deep Multimodal Neural Architecture Search.](https://arxiv.org/pdf/2004.12070.pdf)
 
-VQA Models: 
-1. [LSTM + CNN Model](https://github.com/GT-Vision-Lab/VQA_LSTM_CNN)
-2. [Hierarchical Co-Attention Model](https://github.com/jiasenlu/HieCoAttenVQA)
-
-Dataset: 
-* [vqa](https://visualqa.org/download.html) 
-  
 Accuracy:
 | Year | Model | Total-acc |
 | -- | -- | --|
-| 2016 | LSTM+CNN | |
 | 2017 | HieCoAttenVQA | |
+| 2018 | DCN | |
+| 2018 | MFH |  68.76|
+| 2018 | BAN | 70.04 |
+| 2019 | MCAN | 70.63 |
+| 2020 | MMnasNet | 71.24 |
 
+Codes: 
+* [LSTM + CNN Model (for vqa-1.0)](https://github.com/GT-Vision-Lab/VQA_LSTM_CNN)
+* [Hierarchical Co-Attention Model](https://github.com/jiasenlu/HieCoAttenVQA)
+
+
+Dataset: 
+* [vqa-2.0](https://visualqa.org/download.html) 
+  
 
 ## Timeline
 Weekly dealine is as listed below from the week of June 8th to August 22.
