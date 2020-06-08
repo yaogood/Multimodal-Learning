@@ -4,14 +4,14 @@ Summary many kinds multimodal learning algorithms, papers, datasets and codes.
 ## [Visual Question Answering](https://visualqa.org/)
 
 Paper:  
-1 [VQA: Visual Question Answering (ICCV 2015)](https://arxiv.org/pdf/1505.00468.pdf)
-2 [Balancing and Answering Binary Visual Questions (CVPR 2016)](https://arxiv.org/pdf/1511.05099.pdf)
-3 [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering (CVPR 2017)](https://arxiv.org/pdf/1612.00837.pdf)
-4 []
+1. [VQA: Visual Question Answering (ICCV 2015)](https://arxiv.org/pdf/1505.00468.pdf)
+2. [Balancing and Answering Binary Visual Questions (CVPR 2016)](https://arxiv.org/pdf/1511.05099.pdf)
+3. [Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering (CVPR 2017)](https://arxiv.org/pdf/1612.00837.pdf)
+4. []
 
 VQA Models: 
-1 [LSTM + CNN Model](https://github.com/GT-Vision-Lab/VQA_LSTM_CNN)
-2 [Hierarchical Co-Attention Model](https://github.com/jiasenlu/HieCoAttenVQA)
+1. [LSTM + CNN Model](https://github.com/GT-Vision-Lab/VQA_LSTM_CNN)
+2. [Hierarchical Co-Attention Model](https://github.com/jiasenlu/HieCoAttenVQA)
 
 Dataset: 
 * [vqa](https://visualqa.org/download.html) 
@@ -19,8 +19,8 @@ Dataset:
 Accuracy:
 | Year | Model | Total-acc |
 | -- | -- | --|
-| 2019 | LSTM+CNN | |
-||||
+| 2016 | LSTM+CNN | |
+| 2017 | HieCoAttenVQA | |
 
 
 ## Timeline
